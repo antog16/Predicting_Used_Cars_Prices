@@ -11,6 +11,8 @@ The goal of this project is to predict the prices of used cars from a dataset co
 - **Python**
 - **Pandas**: Data manipulation and analysis
 - **NumPy**: Numerical operations
+- **Regex**: Regular Expressions for string pattern matching and data cleaning
+- **XGBoost**: Gradient Boosting library for predictive modeling
 - **Matplotlib** & **Seaborn**: Data visualization
 - **Scikit-learn**: Machine learning algorithms and utilities
 - **Jupyter Notebook**: Interactive development and analysis
