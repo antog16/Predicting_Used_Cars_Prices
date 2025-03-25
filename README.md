@@ -1,6 +1,6 @@
 # Predicting Used Car Prices
 
-This repository contains a machine learning model for predicting the prices of used cars based on a variety of features. The project aims to demonstrate the process of data cleaning, exploratory data analysis (EDA), feature engineering, and building a predictive model using various machine learning algorithms.
+This repository contains a machine learning model for predicting the prices of used cars based on a variety of features. The project aims to demonstrate the process of data cleaning, exploratory data analysis (EDA), feature engineering, and building a predictive model using various machine learning algorithms (RandomForestRegressor & XGBoostRegressor).
 
 ## Project Overview
 
