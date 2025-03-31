@@ -2,6 +2,8 @@
 
 This repository contains a machine learning model for predicting the prices of used cars based on a variety of features. The project aims to demonstrate the process of data cleaning, exploratory data analysis (EDA), feature engineering, and building a predictive model using various machine learning algorithms (RandomForestRegressor & XGBoostRegressor).
 
+An app on streamlit was created to deploy the model and generate predictions: https://predictingusedcarsprices.streamlit.app/
+
 ## Project Overview
 
 The goal of this project is to predict the prices of used cars from a dataset containing information about different car attributes. The dataset includes features like car make, model, year, mileage, fuel type, and others that affect the price of a used car.
