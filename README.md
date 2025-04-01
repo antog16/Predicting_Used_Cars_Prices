@@ -4,6 +4,9 @@ This repository contains a machine learning model for predicting the prices of u
 
 An app on streamlit was created to deploy the model and generate predictions: https://predictingusedcarsprices.streamlit.app/
 
+![EstimadordePreciosdeAutosUsadosStreamlit-GoogleChrome2025-03-3123-04-10-ezgif com-video-to-apng-converter](https://github.com/user-attachments/assets/2efdeb54-3b1c-4019-81e5-d438f7ac8008)
+
+
 ## Project Overview
 
 The goal of this project is to predict the prices of used cars from a dataset containing information about different car attributes. The dataset includes features like car make, model, year, mileage, fuel type, and others that affect the price of a used car.
